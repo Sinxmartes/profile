@@ -22,5 +22,7 @@ ___
 ## Stats
 
 [![Stats: Sinxmartes](https://github-readme-stats.vercel.app/api?username=sinxmartes&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=sinxmartes&show_icons=true&theme=dracula)
-
+ 
+[![Wakatime: Sinxmartes](https://github-readme-stats.vercel.app/api/wakatime?username=sinxmartes&theme=dracula)](https://github-readme-stats.vercel.app/api/wakatime?username=sinxmartes&theme=dracula)
+  
 </center>
