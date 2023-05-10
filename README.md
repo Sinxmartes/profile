@@ -7,7 +7,7 @@
 My original name is Marco Medeiros, but my friends call me Sinxmartes or just Sinx.
 My username came from the RPG game Ragnarok.
 
-I've been working with programming since I was 14 years old, I work with several languages, from Assembly, Lua, C, C++, C#, JS, TS, among others.
+I've been working with programming since I was 14 years old, I work with several languages, from Assembly, Lua, C, C++, C#, JS, Dart, TS, among others.
 
 ___
 
@@ -22,7 +22,5 @@ ___
 ## Stats
 
 [![Stats: Sinxmartes](https://github-readme-stats.vercel.app/api?username=sinxmartes&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=sinxmartes&show_icons=true&theme=dracula)
- 
-[![Wakatime: Sinxmartes](https://github-readme-stats.vercel.app/api/wakatime?username=sinxmartes&theme=dracula)](https://github-readme-stats.vercel.app/api/wakatime?username=sinxmartes&theme=dracula)
   
 </center>
