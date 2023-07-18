@@ -1,6 +1,7 @@
 <center> 
 
-# Hello There. I'm Sinxmartes.
+# Hello There.
+## I'm Sinxmartes.
 
 ## Who am I?
 
